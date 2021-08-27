@@ -11,6 +11,7 @@ public class ex1 {
         System.out.print("What is your name?");
         Scanner input = new Scanner(System.in);
         String name = input.next();
-        System.out.print(name);
+        System.out.print("Hello " + name + ", nice to meet you!");
+        System.out.print("\n");
     }
 }
