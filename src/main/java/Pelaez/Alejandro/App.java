@@ -5,7 +5,7 @@
 package Pelaez.Alejandro;
 import java.util.Scanner;
 
-public class ex1 {
+public class App {
     public static void main(String[] args)
     {
         System.out.print("What is your name?");
